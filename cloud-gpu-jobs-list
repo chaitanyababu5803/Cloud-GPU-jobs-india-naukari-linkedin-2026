@@ -1,0 +1,32 @@
+cloud-gpu-jobs-list
+*************************************
+loud gpu based jobs india as per naukari/linkedin
+In India, cloud GPU-based roles are primarily concentrated in Bengaluru, Hyderabad, Pune, and Delhi-NCR. These jobs are heavily tied to the rapid growth of the Global Capability Center (GCC) ecosystem and the domestic push for AI-native infrastructure. 
+
+1. Top Companies Hiring (Naukri & LinkedIn)
+Based on current active listings, the following companies are leading the demand for GPU-related talent in India:
+Infrastructure & Chipmakers: NVIDIA (leading with hundreds of roles), AMD, Intel, Qualcomm, and MediaTek.
+Cloud & Tech Giants: Microsoft (Azure AI infrastructure), Google (Google Cloud & AI), Meta (Accelerator systems), and Oracle.
+Emerging AI Startups: Neysa (Indian AI cloud startup), Pocket FM (Video Generation research), and CynLr (Robotics).
+Consulting & Services: KPMG India, HCLTech, Infosys, and L&T. 
+
+2. Key Job Roles & Specializations
+The demand has shifted from general cloud management to specialized GPU infrastructure roles:
+ML Infrastructure Engineer: Focusing on building GPU clusters and distributed training systems.
+Accelerated Compute Engineer: Managing NVIDIA vGPU, MIG, and high-performance networking like InfiniBand.
+GPU Architect/Performance Engineer: Profiling and optimizing power/performance at the hardware and driver levels.
+LLMOps/Generative AI Engineer: Deploying and serving Large Language Models on cloud GPU resources. 
+
+3. Salary & Market Trends (2025-2026)
+The market shows a significant premium for candidates who combine cloud and GPU-specific skills:
+Experience Premiums: Roles with AI/ML cloud skills can command a 30% to 45% premium over standard cloud engineering salaries.
+Entry-Level Growth: Freshers in cloud/DevOps tracks typically start at ₹4–₹6.5 LPA, while mid-level engineers (3–7 years) earn between ₹8–₹20 LPA.
+Market Outlook: India's semiconductor and AI infrastructure sector is expected to create one million jobs by 2026 as data center capacity doubles. 
+
+4. Required Tech Stack
+To land these roles, recruiters on LinkedIn and Naukri prioritize:
+Languages: C++, Python, and CUDA.
+Infrastructure: Kubernetes (GPU-aware scheduling), Docker, and Terraform.
+GPU Tools: NVIDIA vGPU, MIG, TensorRT, and DeepStream. 
+
+These job listings from LinkedIn and Naukri detail cloud GPU roles in India, including specific companies, required skills, and salary expectations.
